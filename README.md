@@ -1,4 +1,4 @@
-
+<img src="D:\New folder\46159362.jpg" alt="Description of the image" width="500" height="300" title="This is a tooltip">
 <h1 align="center">Hi 👋, I'm Mahesh Jangalagi</h1>
 <h3 align="center">A passionate developer from India. To leverage my expertise and passion for computer science in a dynamic and innovative environment where I can contribute my skills in software development, problem-solving, and teamwork to drive technological advancements and create impactful solutions. Seeking a challenging role that allows for professional growth, collaboration, and the opportunity to make a signicant impact on cutting-edge projects.</h3>
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/v8h2U6YczaYrrbgN6
