@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Jangalagi</h1>
 <h3 align="center">A passionate developer from India. To leverage my expertise and passion for computer science in a dynamic and innovative environment where I can contribute my skills in software development, problem-solving, and teamwork to drive technological advancements and create impactful solutions. Seeking a challenging role that allows for professional growth, collaboration, and the opportunity to make a signicant impact on cutting-edge projects.</h3>
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/v8h2U6YczaYrrbgN6
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh1445&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh1445" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh1445&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh1445" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh1445" alt="mahesh1445" /></a> </p>
 
